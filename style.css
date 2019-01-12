@@ -1,0 +1,22 @@
+main {
+  width: 960px;
+  height: 780px;
+  margin: 0 auto;
+  background-color: rgb(148, 199, 216);
+  position: relative;
+}
+
+.paddle {
+  position: absolute;
+  background-color: black;
+}
+
+.ball {
+  border-radius: 100%;
+  background-color: red;
+  position: absolute;
+}
+
+.brick {
+  background-color: green;
+}
