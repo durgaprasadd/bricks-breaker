@@ -1,5 +1,5 @@
 main {
-  width: 960px;
+  width: 964px;
   height: 780px;
   margin: 0 auto;
   background-color: rgb(148, 199, 216);
@@ -19,4 +19,7 @@ main {
 
 .brick {
   background-color: green;
+  position: absolute;
+  border: 1px solid black;
+  border-radius: 25%;
 }
